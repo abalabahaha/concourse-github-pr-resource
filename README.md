@@ -1,5 +1,7 @@
 ## Github PR resource
 
+[![CI Status: Build Image](https://github.com/abalabahaha/concourse-github-pr-resource/actions/workflows/build-image.yml/badge.svg?branch=master)](https://github.com/abalabahaha/concourse-github-pr-resource/actions/workflows/build-image.yml)
+
 [graphql-api]: https://developer.github.com/v4
 [original-resource]: https://github.com/jtarchie/github-pullrequest-resource
 
