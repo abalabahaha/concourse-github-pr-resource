@@ -3,10 +3,10 @@ package resource_test
 import (
 	"testing"
 
+	resource "github.com/abalabahaha/concourse-github-pr-resource"
+	"github.com/abalabahaha/concourse-github-pr-resource/fakes"
 	"github.com/shurcooL/githubv4"
 	"github.com/stretchr/testify/assert"
-	resource "github.com/telia-oss/github-pr-resource"
-	"github.com/telia-oss/github-pr-resource/fakes"
 )
 
 var (

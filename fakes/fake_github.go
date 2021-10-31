@@ -4,8 +4,8 @@ package fakes
 import (
 	"sync"
 
+	resource "github.com/abalabahaha/concourse-github-pr-resource"
 	"github.com/shurcooL/githubv4"
-	resource "github.com/telia-oss/github-pr-resource"
 )
 
 type FakeGithub struct {
